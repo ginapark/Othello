@@ -1,0 +1,6 @@
+Park 39
+Player5 38
+Gina 10
+Player2 5
+Player1 3
+Player3 2
